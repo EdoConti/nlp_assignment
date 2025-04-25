@@ -78,6 +78,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+nlp_a/
 
 # IPython
 profile_default/
