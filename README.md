@@ -1,7 +1,3 @@
-Below is an example of a README.md file structured in Markdown that incorporates the assignment details:
-
----
-
 # Legislative Bill Summaries Analysis
 
 ## Overview
@@ -23,19 +19,6 @@ The project consists of two main components:
    - Compute cosine similarities between bill summaries using vector representations (e.g., TF-IDF, transformer-based embeddings).
    - Investigate whether bills associated with similar policy areas (e.g., Taxation, Environmental Protection) appear close in semantic space.
    - Identify insights or unexpected patterns emerging from the data.
-
-## Deliverables
-
-The final submission includes the following:
-
-- **Concise Write-Up (max 3 pages)**  
-  A document that includes:
-  - An explanation of the chosen approaches in text preprocessing, vectorization, and modeling.
-  - Visualizations supporting the analysis (e.g., topic distributions, similarity graphs).
-  - A critical interpretation of the findings and a discussion on how closely the results align with official policy areas and legislative priorities.
-
-- **Python Notebook/Script**  
-  A fully reproducible Python notebook or script that implements the entire analysis from data preprocessing to final visualization and model evaluation.
 
 ## Dataset
 
@@ -87,15 +70,3 @@ The dataset, consisting of the legislative bill summaries scraped from Congress.
 
 4. **Review the Results:**  
    Visualizations and output logs will appear in the notebook or as output files, depending on your implementation.
-
-## Due Date
-
-All parts of the assignment are due on **May 11, 2025**.
-
-## Contact
-
-For any questions or clarifications, please contact [Your Name/Email].
-
----
-
-This README structure ensures that all the key components of the assignment are clearly documented, making it easier for reviewers to understand your approach and reproduce your findings.
