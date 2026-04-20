@@ -53,19 +53,16 @@ The dataset, consisting of the legislative bill summaries scraped from Congress.
    ```
 
 2. **Install Dependencies:**  
-   Ensure you have Python 3.8+ installed. Then, install the required packages:
+   Install the required packages:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Execute the Notebook/Script:**  
+3. **Execute the Notebooks:**  
    - For Jupyter Notebook:
      ```bash
-     jupyter notebook legislative_analysis.ipynb
-     ```
-   - For a Python script:
-     ```bash
-     python legislative_analysis.py
+     jupyter notebook assignment.ipynb
+     jupyter notebook assignment_p2.ipynb
      ```
 
 4. **Review the Results:**  
