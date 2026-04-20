@@ -48,8 +48,8 @@ The dataset, consisting of the legislative bill summaries scraped from Congress.
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/your-repo/legislative-bill-analysis.git
-   cd legislative-bill-analysis
+   git clone https://github.com/your-repo/legislative-bill-analysis.git](https://github.com/EdoConti/nlp_assignment.git
+   cd nlp_assignment
    ```
 
 2. **Install Dependencies:**  
